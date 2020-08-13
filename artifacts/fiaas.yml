@@ -13,6 +13,7 @@ healthchecks:
   liveness:
     http:
       path: /healthz
+opt_out_of_default_hosts: true
 metrics:
   prometheus:
     path: /internal-backstage/prometheus
