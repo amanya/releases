@@ -14,6 +14,8 @@ healthchecks:
     http:
       path: /healthz
 opt_out_of_default_hosts: true
+ingress:
+  - host: testing
 metrics:
   prometheus:
     path: /internal-backstage/prometheus
