@@ -1,5 +1,5 @@
 {
-    "image": "fiaas/fiaas-deploy-daemon:20200716090021-7a84cb7",
+    "image": "amanya/fiaas-deploy-daemon:20200813193857-14c9b66",
     "build": "https://fiaas.semaphoreci.com/jobs/15d1ab51-93d9-493e-8620-84e7fcdf4be1",
     "commit": "https://github.com/fiaas/fiaas-deploy-daemon/commit/7a84cb722aa1ca0e2db0096dde73fd88527ec936",
     "spec": "https://raw.githubusercontent.com/amanya/releases/master/artifacts/fiaas.yml",
