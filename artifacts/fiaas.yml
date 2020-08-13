@@ -13,7 +13,7 @@ healthchecks:
   liveness:
     http:
       path: /healthz
-opt_out_of_default_hosts: true
+opt_out_of_default_hosts: false
 ingress:
   - host: testing
 metrics:
